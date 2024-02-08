@@ -1,0 +1,1 @@
+Create a directory for integration tests and initial test files using MockMvc for Spring Boot applications
