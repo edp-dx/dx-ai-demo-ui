@@ -1,0 +1,1 @@
+Create the BadgesDashboard component with API integration, interactive viewing, and initial state setup.
