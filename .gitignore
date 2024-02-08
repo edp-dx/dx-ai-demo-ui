@@ -1,1 +1,57 @@
-node_modules/
+# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/n# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/o# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/d# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/e# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/_# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/m# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/o# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/d# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/u# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/l# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/e# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/s# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage//# Exclude test artifacts
+*.log
+*.tmp
+*output/
+coverage/
