@@ -1,0 +1,1 @@
+Write unit tests for the BadgesDashboard component using Jest and React Testing Library.
