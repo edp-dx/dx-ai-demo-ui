@@ -1,4 +1,3 @@
-```jsx
 import React, { Component } from 'react';
 import './BadgesDashboard.css';
 
@@ -19,4 +18,3 @@ class BadgesDashboard extends Component {
 }
 
 export default BadgesDashboard;
-```
