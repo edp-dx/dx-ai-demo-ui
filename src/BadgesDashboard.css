@@ -1,0 +1,30 @@
+.badges-dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.badge {
+  margin: 10px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.badge img {
+  width: 100px;
+  height: 100px;
+}
+
+.badge-info {
+  margin-top: 10px;
+}
+
+.badge-info h4 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.badge-info p {
+  margin: 5px 0;
+}
