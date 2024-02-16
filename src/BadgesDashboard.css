@@ -1,0 +1,40 @@
+.badges-dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.badge {
+  cursor: pointer;
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.badge img {
+  max-width: 100px;
+  margin-bottom: 10px;
+}
+
+.badge-detail {
+  text-align: center;
+}
+
+.badge-detail h2 {
+  margin: 0;
+}
+
+.badge-detail p {
+  margin: 5px 0;
+}
+
+/* Responsive styling */
+@media (max-width: 600px) {
+  .badges-dashboard {
+    flex-direction: column;
+  }
+  .badge img {
+    max-width: 75px;
+  }
+}
