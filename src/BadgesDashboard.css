@@ -1,0 +1,36 @@
+.badges-dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10px;
+}
+
+.badge {
+  cursor: pointer;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.badge-image {
+  max-width: 100px;
+  margin-bottom: 5px;
+}
+
+.badge-name {
+  font-weight: bold;
+}
+
+.badge-criteria {
+  font-size: 0.8em;
+  color: #666;
+}
+
+/* Responsive styling for badges */
+@media (max-width: 600px) {
+  .badge {
+    width: 100%;
+  }
+}
