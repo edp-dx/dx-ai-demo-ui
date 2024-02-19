@@ -11,4 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Incremented MINOR version in package.json and package-lock.json.
 - Created CHANGELOG.md with list of git commit messages.
 
+## [0.3.0] - YYYY-MM-DD
+
+### Added
+- Incremented MINOR version in package.json and package-lock.json.
+- Updated CHANGELOG.md with new version and placeholder for git commit messages.
+
 <!-- Insert list of git commit messages here -->
