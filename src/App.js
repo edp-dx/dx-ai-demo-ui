@@ -10,9 +10,11 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Hello, EDP!</h1>
         </header>
+      <BadgesDashboard />
       </div>
     );
   }
 }
 
 export default App;
+import BadgesDashboard from './BadgesDashboard';
