@@ -10,6 +10,17 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Hello, EDP!</h1>
         </header>
+      import BadgesDashboard from './BadgesDashboard';
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <h1 className="App-title">Hello, EDP!</h1>
+        </header>
+        <BadgesDashboard />
       </div>
     );
   }
