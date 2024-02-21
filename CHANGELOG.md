@@ -1,12 +1,462 @@
-# Changelog
-
-All notable changes to this project will be documented in this file.
-
-## [Unreleased]
-
-### Added
-- `BadgesDashboard.js` React component to display badges from the `/badges` API.
-- `BadgesDashboard.css` to style the `BadgesDashboard` component.
-- Integration of `BadgesDashboard` component in `App.js`.
-- Unit tests for `BadgesDashboard` component in `App.test.js`.
-- Dependencies `react-router-dom` and `prop-types` to `package.json`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.#### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.C### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.A### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.b### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.j### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.w### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.b### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.u### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.m### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.f### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.#### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.#### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.[### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.U### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.]### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.#### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.#### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.#### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.A### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.-### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.B### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.D### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.b### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.j### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.R### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.m### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.y### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.b### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.f### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.m### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`./### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.b### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.A### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.P### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.I### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.-### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.B### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.D### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.b### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.y### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.l### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.B### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.D### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.b### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.m### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.-### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.I### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.f### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.B### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.D### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.b### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.m### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.A### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.j### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.-### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.U### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.f### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.B### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.D### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.h### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.b### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.m### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.A### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.j### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.-### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.D### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.i### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.-### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.u### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.-### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.m### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.d### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.r### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.-### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.y### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.t### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`. ### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.p### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.c### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.k### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.a### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.g### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.e### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.j### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.s### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.o### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.n### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.`### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`..### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
+### Changed
+- Enabled `BadgesDashboard` on the main page below the "Hello, EDP" message in `App.js`.
