@@ -1,0 +1,29 @@
+.badges-dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 20px;
+  padding: 20px;
+}
+
+.badge {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+}
+
+.badge img {
+  max-width: 100px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.badge h2 {
+  font-size: 1.2em;
+  color: #333;
+}
+
+.badge p {
+  font-size: 1em;
+  color: #666;
+}
