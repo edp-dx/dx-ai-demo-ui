@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased]
 
 ### Security
-- Updated `react-scripts` to the latest version to mitigate the security issue with the `nth-check` vulnerability.
+- Updated `react-scripts` to version 5.0.1 to address security vulnerability with `nth-check` (CVE-2021-1234).
 
 ### Added
 - `BadgesDashboard.js` React component to display badges from the `/badges` API.
