@@ -7,7 +7,10 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "y18n": "^5.0.8",
-    "typescript": "^4.9.5"
+    "typescript": "^4.9.5",
+    "axios": "^0.26.0",
+    "react-router-dom": "^6.0.0",
+    "prop-types": "^15.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
