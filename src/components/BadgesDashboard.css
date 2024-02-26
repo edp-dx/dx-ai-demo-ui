@@ -1,0 +1,30 @@
+.badges-dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.badge-item {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+}
+
+.badge-item img {
+  max-width: 100px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.badge-item h3 {
+  margin: 0;
+  color: #333;
+  font-size: 1.2em;
+}
+
+.badge-item p {
+  color: #666;
+}
