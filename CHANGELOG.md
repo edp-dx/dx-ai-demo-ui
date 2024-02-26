@@ -2,10 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.2.0]
+## [Unreleased]
 
-- List of new commits since the last version:
-  - Commit 1
-  - Commit 2
-  - ... 
-  - Commit N
+### Added
+- Created `BadgesDashboard.js` React component for displaying badges.
+- Added `BadgesDashboard.css` for styling the `BadgesDashboard` component.
+- Updated `App.js` to include `BadgesDashboard` component.
+- Updated `App.test.js` to add tests for `BadgesDashboard` component.
+- Added dependencies `react-router-dom` and `prop-types` to `package.json`.
