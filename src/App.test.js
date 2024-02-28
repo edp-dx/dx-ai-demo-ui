@@ -1,9 +1,20 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { render, waitFor } from '@testing-library/react';
 import App from './App';
+import BadgesDashboard from './components/BadgesDashboard';
 
-it('renders without crashing', () => {
-  const div = document.createElement('div');
-  ReactDOM.render(<App />, div);
-  ReactDOM.unmountComponentAtNode(div);
+jest.mock('./components/BadgesDashboard', () => () => <div>BadgesDashboard</div>);
+
+describe('App', () => {
+  it('renders without crashing', () => {
+    const { getByText } = render(<App />);
+    expect(getByText('Hello, EDP!')).toBeInTheDocument();
+  });
+});
+
+describe('BadgesDashboard', () => {
+  it('renders badges dashboard', async () => {
+    const { getByText } = render(<BadgesDashboard />);
+    await waitFor(() => expect(getByText('BadgesDashboard')).toBeInTheDocument());
+  });
 });
