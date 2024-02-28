@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+
+## [1.0.0] - 2023-04-DD
+### Added
+- `BadgesDashboard` React component to display badges fetched from the `/badges` API.
+- CSS styling for `BadgesDashboard` in `BadgesDashboard.css`.
+- Inclusion of `BadgesDashboard` in `App.js`.
+- Unit tests for `BadgesDashboard` in `App.test.js`.
+- Dependencies `react-router-dom` and `prop-types` added to `package.json`.
+
 ## [0.2.0]
 
 - List of new commits since the last version:
