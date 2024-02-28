@@ -1,0 +1,29 @@
+.badges-dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.badge {
+  margin: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  width: 250px;
+  text-align: center;
+}
+
+.badge-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.badge-name {
+  margin: 10px 0;
+  color: #333;
+}
+
+.badge-description {
+  color: #666;
+}
