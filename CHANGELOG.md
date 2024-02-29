@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.3.0] - 202X-XX-XX
+- List of new commits since the last version:
+  - Commit placeholder 1
+  - Commit placeholder 2
+  - ...
+  - Commit placeholder N
+
 ## [1.0.0] - 2023-04-DD
 ### Added
 - `BadgesDashboard` React component to display badges fetched from the `/badges` API.
