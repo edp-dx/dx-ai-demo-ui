@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.4.0] - YYYY-MM-DD
+- List of new commits since the last version:
+  - Commit placeholder 1
+  - Commit placeholder 2
+  - ...
+  - Commit placeholder N
+
 ## [0.3.0] - 202X-XX-XX
 - List of new commits since the last version:
   - Commit placeholder 1
