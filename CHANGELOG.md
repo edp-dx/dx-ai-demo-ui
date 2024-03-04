@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.6.0] - 2023-04-DD
+- List of new commits since the last version:
+  - Commit placeholder 1
+  - Commit placeholder 2
+  - ...
+  - Commit placeholder N
+
 ## [0.5.0] - 2023-04-DD
 - List of new commits since the last version:
   - Commit placeholder 1
